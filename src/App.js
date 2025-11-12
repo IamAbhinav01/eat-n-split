@@ -20,6 +20,7 @@ const initialFriends = [
     balance: 0,
   },
 ];
+//commenting
 export default function App() {
   const [friends, setFriends] = useState(initialFriends);
 
